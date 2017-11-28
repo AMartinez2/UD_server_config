@@ -29,3 +29,9 @@ You can access the application with this link
 * Flask (0.12.2)
 * Psycopg2 (2.7.3.2)
 * SQLAlchemy (1.1.15)
+
+## Resources used
+* [http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
+* [https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+* [https://wiki.postgresql.org/wiki/PostgreSQL_Tutorials](https://wiki.postgresql.org/wiki/PostgreSQL_Tutorials)
+* And Udacity's Linux Configuration Course material
