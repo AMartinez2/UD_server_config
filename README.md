@@ -3,9 +3,12 @@
 This Linux configuration is used in conjunction with AWS to host and launch a Python Flask application using Apache2 WSGI mod and a Pstgresql Database.
 
 ## Login for grader
-Enter server using SSH command:
+Log into server using SSH command:
 
 `$ ssh grader@18.217.89.103 -p 2200 -i [SSH_FILE_PATH]`
+
+You can access the application with this link
+[http://ec2-18-217-89-103.us-east-2.compute.amazonaws.com](http://ec2-18-217-89-103.us-east-2.compute.amazonaws.com)
 
 ## Configurations made
 * A new user 'grader' was added to the server and given sudo permissions. Root login and password authentication were then blocked, requiring a user to use SSH login
